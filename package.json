@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-theme-chronoblog-workspace",
+  "name": "gatsby-theme-chronoblog-thalhalla",
   "private": true,
   "license": "MIT",
-  "author": "Ivan Ganev <ganevio92@gmail.com>",
+  "author": "Josh Cox <uberthoth@gmail.com>",
   "workspaces": [
     "packages/*",
     "starters/*",
