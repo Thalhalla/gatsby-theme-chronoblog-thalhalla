@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-theme-chronoblog-thalhalla",
+  "name": "@thalhalla/gatsby-theme-chronoblog-thalhalla",
   "private": false,
   "license": "MIT",
   "version": "0.0.1",
@@ -87,5 +87,21 @@
     "node": ">=10.15.0",
     "npm": "! use yarn !",
     "yarn": ">=1.5.1"
-  }
+  },
+  "description": "<br />\r <p align=\"center\">\r <a href=\"https://chronoblog.now.sh\" target=\"_blank\">\r <img src=\"https://github.com/Chronoblog/gatsby-theme-chronoblog/raw/master/assets/banner-small-2.png\" alt=\"Chronoblog - Gatsby Theme\" />\r </a>\r </p>",
+  "main": "jest-preprocess.js",
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thalhalla/gatsby-theme-chronoblog-thalhalla.git"
+  },
+  "keywords": [
+    "gatsbytheme"
+  ],
+  "bugs": {
+    "url": "https://github.com/Thalhalla/gatsby-theme-chronoblog-thalhalla/issues"
+  },
+  "homepage": "https://github.com/Thalhalla/gatsby-theme-chronoblog-thalhalla#readme"
 }
