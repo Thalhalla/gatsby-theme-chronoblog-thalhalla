@@ -2,7 +2,7 @@
   "name": "@thalhalla/gatsby-theme-chronoblog-thalhalla",
   "private": false,
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Josh Cox <uberthoth@gmail.com>",
   "workspaces": [
     "packages/*",
